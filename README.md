@@ -1,3 +1,6 @@
+#Hi 👋, I'm Prakhar Singh
+
+
 # 💫 About Me:
 🌱 I’m currently learning MERN Stack & Cyber Security<br>💬 Ask me about Node.js, React, JavaScript, C++, DSA<br>⚡ Fun fact I love playing sports and reading books
 
